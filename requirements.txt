@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+paddleocr
+paddlepaddle
+python-multipart
+requests
+openai
+deep-translator
+gtts
+python-dotenv
